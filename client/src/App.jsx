@@ -11,7 +11,7 @@ import InterviewHistory from './pages/InterviewHistory'
 import Pricing from './pages/Pricing'
 import InterviewReport from './pages/InterviewReport'
 
-export const ServerUrl  = "https://three-interviewiq-37h3.onrender.com"
+export const ServerUrl  = "https://three-interviewiq-1-8q12.onrender.com"
 
 function App() {
 
